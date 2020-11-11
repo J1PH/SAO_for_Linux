@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=SAO
+Comment=A flat theme with transparent elements
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=SAO
+MetacityTheme=SAO
+IconTheme=SAO
+CursorTheme=SAO
+ButtonLayout=menu:minimize,maximize,close
